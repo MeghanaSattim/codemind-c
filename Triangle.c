@@ -16,7 +16,4 @@ int main()
             printf("Scalene triangle");
         }
 }
-        
-    
-    
-
+   
